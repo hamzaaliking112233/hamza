@@ -33,7 +33,7 @@ module.exports.run = async function({ api, event }) {
                 const fs = require("fs");
                 return api.sendMessage("Assalamu Alaikum Everyone🥀🥀", event.threadID, () => api.sendMessage({body:`🌺Shaan🦋🌺 CONNECTED«
 
-Bot Made By SHAAN KHAN K☘️
+Bot Made By HAMZI TRICKER A☘️
 <------------------------------>  
 BOT CONNECTED SUCCESFUL !!! 
 
@@ -45,21 +45,21 @@ USE HELP TO SEE COMMAND
 <<<<<------------------------------>>>>>
 AND FOR ANY REPORT OR CONTACT BOT DEVELOPER
 
-OWNER: 𝐒𝐇𝐀𝐀𝐍
+OWNER: 𝗛𝗮𝗺𝘇𝗶
 
 ♻️Facebook: 
 
-https://www.facebook.com/profile.php?id=100016828397863&mibextid=ZbWKwL
+https://www.facebook.com/profile.php?id=61551893196214=ZbWKwL
 
 Youtube Site : N/A
 
 ☢️ INSTAGRAM: N/A
 
-https://www.instagram.com/shankhank345?igsh=MXVneXZ6bzR4bHhvcg==￼
+https://www.instagram.com/usbedi32?igsh=YzljYTk1ODg3Zg==
 
-☣️Email: shankhank345@gmail.com
+☣️Email: abdulkhaliq124r@gmail.com
 
-⚠️Wp: +92 3368783346 `, attachment: fs.createReadStream(__dirname + "/cache/lv_7413647234832682256_20250105005634.mp4")} ,threadID));
+⚠️Wp: +92 3096269143 `, attachment: fs.createReadStream(__dirname + "/cache/lv_7413647234832682256_20250105005634.mp4")} ,threadID));
         }
         else {
                 try {
